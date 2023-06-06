@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670350993 source:c:\users\user\onedrive\documentos\projeto c\idades\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
